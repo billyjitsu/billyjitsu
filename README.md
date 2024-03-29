@@ -1,7 +1,7 @@
 ### What's up 👋
 
-- 🔭 I’m currently working on degen auction, oracles and a few fun fitness escrow contract ideas
-- 🌱 I’m currently diving into more using more RUST, oracles and layer0 sdk
+- 🔭 I’m currently a contributer to API3 and Developer DAO
+- 🌱 Current focus is on bots to take advantage of Oracle Extractable Value
 - 👯 I’m looking to collaborate on anything that brings more use cases or better UX for crypto
 - 📫 You can reach me @ https://twitter.com/wc49358
 - ⚡ Fun fact: I killed a fly with a roundhouse kick!
