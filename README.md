@@ -3,7 +3,7 @@
 - 🔭 I’m currently a contributer to API3 and Developer DAO
 - 🌱 Current focus is on bots to take advantage of Oracle Extractable Value
 - 👯 I’m looking to collaborate on anything that brings more use cases or better UX for crypto
-- 📫 You can reach me @ https://x.com/billyjitsu_
+- 📫 You can reach me @ [Twitter](https://x.com/billyjitsu_)
 - ⚡ Fun fact: I killed a fly with a roundhouse kick!
 
 <!--
