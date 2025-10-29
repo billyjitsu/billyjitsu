@@ -1,6 +1,6 @@
 ### What's up 👋
 
-- 🔭 I’m currently a contributer to API3 and Developer DAO
+- 🔭 I’m currently a contributer to Katana Network and Developer DAO
 - 🌱 Current focus is on bots to take advantage of Oracle Extractable Value
 - 👯 I’m looking to collaborate on anything that brings more use cases or better UX for crypto
 - 📫 You can reach me @ [Twitter](https://x.com/billyjitsu_)
