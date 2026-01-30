@@ -1,7 +1,7 @@
 ### What's up 👋
 
 - 🔭 I’m currently a contributer to Katana Network and Developer DAO
-- 🌱 Current focus is on bots to take advantage of Oracle Extractable Value
+- 🌱 Current focus is getting more people interested in DeFi
 - 👯 I’m looking to collaborate on anything that brings more use cases or better UX for crypto
 - 📫 You can reach me @ [Twitter](https://x.com/billyjitsu_)
 - ⚡ Fun fact: I killed a fly with a roundhouse kick!
